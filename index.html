@@ -1,9 +1,3 @@
-<!--
------------------
-https://github.com/ardacarofficial/links-website is open source project.
------------------
--->
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
