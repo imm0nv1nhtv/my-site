@@ -5,3 +5,5 @@ Also, some assets is edited
 --- Hosted using Render ---
 
 --- Originally hosted using GitHub Pages ---
+
+--- Discord domain verification also works! ---
