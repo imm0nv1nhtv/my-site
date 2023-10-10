@@ -6,4 +6,4 @@ Also, some assets is edited
 
 --- Originally hosted using GitHub Pages ---
 
---- Discord domain verification also works! ---
+--- Discord domain verification works in Render but not GitHub Pages ---
