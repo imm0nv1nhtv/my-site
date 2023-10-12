@@ -8,7 +8,7 @@ DM me on Discord to become a collaborator
 
 Username: c0d3name_1amv1nh123
 
-DMs open in some servers of I joined
+DMs open in some servers I joined
 
 Example:
 
