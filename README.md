@@ -12,8 +12,6 @@ DMs open in some servers I joined
 
 Example:
 
-~~My Computer Community~~ I left that server
-
 n3ptune's nation
 
 FreeRDP
