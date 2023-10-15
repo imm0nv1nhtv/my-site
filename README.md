@@ -4,7 +4,7 @@ Also, some assets is edited
 
 (Originally hosted in GitHub Pages, moved to Render)
 
-DM me on Discord to become a collaborator
+DM me on Discord to become a collaborator and help me at editing my website
 
 Username: c0d3name_1amv1nh123
 
