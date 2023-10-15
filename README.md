@@ -12,7 +12,7 @@ DMs open in some servers I joined
 
 Example:
 
-~~My Computer Community~~~ I left
+~~My Computer Community~~ I left
 
 n3ptune's nation
 
