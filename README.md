@@ -6,7 +6,7 @@ Also, some assets is edited
 
 DM me on Discord to become a collaborator and help me at editing my website
 
-Username: c0d3name_1amv1nh123
+Username: c0d3name_1amv1nh123 (btw i disabled friend requests)
 
 DMs open in some servers I joined
 
